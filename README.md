@@ -1,13 +1,13 @@
 
 
-App Link : https://mini-dictionary-bk.netlify.app/
+## App Link : https://mini-dictionary-bk.netlify.app/
 
-#Mini-dictionary-App
+# Mini-dictionary-App
 
 A simple dictionary application built with React. The app features a login form using Formik and Yup for validation, a search box for looking up words, and displays word suggestions and their meanings. The application fetches data from an API using Axios and utilizes Tailwind CSS for styling.
 
 
-##Features
+## Features
 
 ### 1.Login Form:
 
