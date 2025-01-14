@@ -1,4 +1,4 @@
-# React + Vite
+
 
 App Link : https://mini-dictionary-bk.netlify.app/
 
@@ -11,26 +11,26 @@ A simple dictionary application built with React. The app features a login form 
 
 ### 1.Login Form:
 
-       a)Includes fields for email and password.
+  a)Includes fields for email and password.
 
-       b)Validation is implemented using Formik and Yup.
+   b)Validation is implemented using Formik and Yup.
 
-        c)On successful submission, the dictionary functionality is unlocked.
+   c)On successful submission, the dictionary functionality is unlocked.
 
 ### 2.Dictionary Functionality:
 
-      a)A search box to look up words.
+   a)A search box to look up words.
 
-      B)Displays suggestions when typing.
+   B)Displays suggestions when typing.
 
-      c)Clicking on a suggestion displays the meaning of the word.
+   c)Clicking on a suggestion displays the meaning of the word.
 
 ### 3.API Integration:
 
-    a)Fetches word data (meanings and suggestions) using Axios.
+   a)Fetches word data (meanings and suggestions) using Axios.
 
 ### 4.Styling:
-     a)Fully styled with Tailwind CSS for a modern and responsive design.
+   a)Fully styled with Tailwind CSS for a modern and responsive design.
 
 
 ##Technologies Used
@@ -51,7 +51,7 @@ A simple dictionary application built with React. The app features a login form 
 
 ### 3.API:
 
-    a)A dictionary API is used to fetch word data.
+   a)A dictionary API is used to fetch word data.
 
    ## Author
 
